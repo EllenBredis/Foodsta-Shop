@@ -43,6 +43,7 @@ function renderProducts(productsArray) {
 								</button>
 
 							</div>
+							
 						</div>
 					</div>`;
         productsContainer.insertAdjacentHTML('beforeend', productHTML);
